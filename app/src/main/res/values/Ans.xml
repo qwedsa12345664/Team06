@@ -1,0 +1,101 @@
+<resources>
+    <string-array name="Ans">
+        <item>請選擇</item>
+        <item>早上</item>
+        <item>下午及傍晚</item>
+        <item>夜裡</item>
+    </string-array>
+    <string-array name="Ans2">
+        <item>請選擇</item>
+        <item>步伐很大、頻率較快</item>
+        <item>步伐很小、頻率較快</item>
+        <item>走的不快、頭往上看</item>
+        <item>走的不快、頭往下看</item>
+        <item>很慢</item>
+    </string-array>
+    <string-array name="Ans3">
+        <item>請選擇</item>
+        <item>雙手交疊站立</item>
+        <item>雙手緊握</item>
+        <item>一支手或雙手放在臀部</item>
+        <item>觸碰與你交談的對象</item>
+        <item>不自覺摸著耳朵、下巴或是整理頭髮</item>
+    </string-array>
+    <string-array name="Ans4">
+        <item>請選擇</item>
+        <item>仰躺、伸直</item>
+        <item>俯躺、伸直</item>
+        <item>側躺、微捲</item>
+        <item>頭睡在一側手臂上</item>
+        <item>被子蓋過頭</item>
+    </string-array>
+    <string-array name="Ans5">
+        <item>請選擇</item>
+        <item>落下</item>
+        <item>打架或掙扎</item>
+        <item>找東西找人</item>
+        <item>飛或漂浮</item>
+        <item>平常不太做夢</item>
+        <item>做夢都是愉快的夢</item>
+    </string-array>
+    <string-array name="Ans6">
+        <item>請選擇</item>
+        <item>膝蓋併攏</item>
+        <item>雙腿交叉</item>
+        <item>雙推伸直</item>
+        <item>單腿盤在椅子上</item>
+    </string-array>
+    <string-array name="Ans7">
+        <item>請選擇</item>
+        <item>紅或橘色</item>
+        <item>黑色</item>
+        <item>黃色或淺藍色</item>
+        <item>綠色</item>
+        <item>紫色或深藍色</item>
+        <item>白色</item>
+        <item>棕色或灰色</item>
+    </string-array>
+    <string-array name="Ans8">
+        <item>請選擇</item>
+        <item>歡迎他，與他對話</item>
+        <item>非常厭惡</item>
+        <item>在上述兩者之間</item>
+    </string-array>
+    <string-array name="Ans9">
+        <item>請選擇</item>
+        <item>很大聲入場，引起大家注意</item>
+        <item>安靜入場，找你認識的人</item>
+        <item>極安靜入場，盡量不引起注意</item>
+    </string-array>
+    <string-array name="Ans10">
+        <item>請選擇</item>
+        <item>類似欣賞的大笑</item>
+        <item>笑著、聲音不大</item>
+        <item>輕聲呵呵笑</item>
+        <item>羞怯的微笑</item>
+    </string-array>
+    <string-array name="Ans2_1">
+        <item>請選擇</item>
+        <item>蘋果</item>
+        <item>芭樂</item>
+        <item>草莓</item>
+    </string-array>
+    <string-array name="Ans2_2">
+        <item>請選擇</item>
+        <item>白色</item>
+        <item>藍色</item>
+        <item>綠色</item>
+    </string-array>
+    <string-array name="Ans2_3">
+        <item>請選擇</item>
+        <item>晴天</item>
+        <item>雨天</item>
+        <item>陰天</item>
+    </string-array>
+    <string-array name="Ans2_4">
+        <item>請選擇</item>
+        <item>看電視或打電話聊天</item>
+        <item>看書或聽音樂</item>
+        <item>睡覺或到戶外走走</item>
+    </string-array>
+</resources>

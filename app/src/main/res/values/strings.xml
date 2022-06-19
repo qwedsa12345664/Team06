@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_Title_name">心理測試APP</string>
+    <string name="app_name">菲爾人格測試</string>
+    <string name="app_name2">內心真實想法和渴望</string>
+    <string name="Title">Android期末專案</string>
+    <string name="Team1">組長 D1084183021 黃鈺凱</string>
+    <string name="Team2">組員一D1084181022蔡建忠</string>
+    <string name="Team3">組員二D1084182016 黎恩宏</string>
+    <string name="Team4">組員三D1084181041 陳致宇</string>
+    <string name="Team5">組員四D1084181006 李宗穎</string>
+    <string name="Q1">Q1:一天當中，什麼時候你的心情是最好的？</string>
+    <string name="Q2">Q2：你平常走路的速度？</string>
+    <string name="Q3">Q3：和別人交談時，你的姿態通常是？</string>
+    <string name="Q4">Q4：睡覺之前，你的床上姿勢為何？</string>
+    <string name="Q5">Q5：做夢時的你，常常遇見什麼？</string>
+    <string name="Q6">Q6：當你坐著休息時，你的姿態通常是？</string>
+    <string name="Q7">Q7：下列顏色中，你較喜歡哪色？</string>
+    <string name="Q8">Q8：當你專心在做某件事，但被人打斷了，你會怎麼做？</string>
+    <string name="Q9">Q9：當你出席公司派對或是朋友KTV聚會等場所，你以什麼形式入場？</string>
+    <string name="Q10">Q10：當你遇到開心的事情時，你的笑聲是？</string>
+    <string name="Q2_1">Q1:當你心情愉快時，你會想吃哪一種水果？</string>
+    <string name="Q2_2">Q2：當你感覺很優閒舒適時，你會用哪一種顏色來形容？</string>
+    <string name="Q2_3">Q3：當你想到咖啡廳喝杯咖啡時，會希望戶外是哪一種天氣狀態？</string>
+    <string name="Q2_4">Q4：當你想打發時間，會選擇哪一種方式？</string>
+    <string name="subscribe">提交</string>
+    <string name="LastPage">上一頁</string>
+    <string name="Finsh">退出</string>
+    <string name="_00">00</string>
+</resources>

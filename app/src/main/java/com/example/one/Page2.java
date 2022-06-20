@@ -157,11 +157,7 @@ public class Page2 extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 finish();
-                /*
-                Intent intent = new Intent();
-                intent.setClass(Page2.this , MainActivity.class);
-                startActivity(intent);
-                */
+
             }
         });
     }
